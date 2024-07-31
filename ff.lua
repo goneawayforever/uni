@@ -40,7 +40,7 @@ Library.UnloadCallback = function()
 end
  
 local MainFrame = Library:CreateWindow({
-    Name = "YNC Script ni",
+    Name = "YNC Scripts",
     Themeable = {
         Image = "7059346386",
         Info = "Made by YNC Scripts",
